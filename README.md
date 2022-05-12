@@ -1,0 +1,10 @@
+-The solidecoin and the solide protocol project is an economic tool bringing cryptocurrencies to the mainstream. The solide project  believes in the ability to bring
+-prosperous projects to life.
+-The solidecoin and the solide protocol sets the crypto space by bringing web3 and decentralised financing means to the forefront of emerging markets.
+-The solidecoin and the solide protocol is open source. So far the solide team is based on a group of Millennials and Gen Z inventing with the blockchain
+-Decentralised finance is revolutionary and with invention and creating Dapps
+-Find in our github all scripts used in the engineering of the solide protocol
+-Vetting our codes is welcome by our community.
+-The Solidecoin and the solide protocol is community driven.
+-The solideproject to the world.
+-Visit our website solidecoins.com and endeavour to read technical papers associated with the project.Read the whitepaper and expect the yellow paper out soon.
