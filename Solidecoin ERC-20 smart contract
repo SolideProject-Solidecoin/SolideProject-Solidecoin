@@ -12,7 +12,7 @@
    The solidecoin token exist in the testnet for testing and research purposes only
    you can search for the contract with the smart contract address 0xc00B456AC643B4D8d8C4dBa741710E8eE3bAD516
    with just two adresses having the token.
-   This smart contract first block was formed November 2021.
+   The testnet smart contract first block was formed November 2021.
    Another token on the testnet called amacoin was minted June 2022 with the contract address.
    0xF5BfD138bC489010FFe7D212f6f0F7Cd389561B6  the solidecoin token uses same smart contract used
    on ropsten on this  project annd the only thing changed is the name and the ticker symbol the reason for
